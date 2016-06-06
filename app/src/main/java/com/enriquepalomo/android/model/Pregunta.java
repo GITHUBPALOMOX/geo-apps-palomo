@@ -1,7 +1,7 @@
 package com.enriquepalomo.android.model;
 
 /**
- * Created by jonathan on 05/06/16.
+ * Created by enrique on 05/06/16.
  */
 
 public class Pregunta {
